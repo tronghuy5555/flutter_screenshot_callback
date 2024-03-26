@@ -11,7 +11,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   late ScreenshotCallback screenshotCallback;
 
-  String text = "Ready..";
+  String text = "Ready...";
 
   @override
   void initState() {
